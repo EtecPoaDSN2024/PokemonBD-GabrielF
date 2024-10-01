@@ -1,0 +1,6 @@
+1- Uma chave primaria é um conjunto de campos ou apenas um em uma tabela de bd que identifica todo conteúdo da tabela.
+ 
+2- O CPF não deve ser utilizado porque é um dado importante que outras pessoas podem usar sem a autorização do dono para coisas ruins. Outro caso que são as possíveis mudanças legais do CPF da pessoa e mudanças na legislação.
+ 
+3- Uma chave estrangeira é tambem um conjunto de campos que determinada um link entre dados de tabelas.
+ 
